@@ -43,4 +43,5 @@ public class BasicOperations {
         System.out.println("Ceil of num1: " + Math.ceil(num1)); 
         System.out.println("Random number (0-1): " + Math.random()); 
     } 
+
 } 
